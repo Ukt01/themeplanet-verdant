@@ -1,0 +1,47 @@
+{
+  "name": "themeplanet-verdant",
+  "displayName": "ThemePlanet - Verdant",
+  "description": "A nature-inspired VS Code theme with forest and ocean tones for calm, readable coding sessions",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-night-color-theme.json"
+      },
+      {
+        "label": "Morning Mist",
+        "uiTheme": "vs",
+        "path": "./themes/morning-mist-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "nature",
+    "forest",
+    "ocean",
+    "calm",
+    "readable",
+    "green",
+    "teal"
+  ],
+  "publisher": "ukt01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/verdant-theme"
+  },
+  "galleryBanner": {
+    "color": "#1a2b1f",
+    "theme": "dark"
+  }
+}
