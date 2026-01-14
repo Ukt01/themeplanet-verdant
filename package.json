@@ -3,6 +3,7 @@
   "displayName": "ThemePlanet - Verdant",
   "description": "A nature-inspired VS Code theme with forest and ocean tones for calm, readable coding sessions",
   "version": "1.0.0",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -38,7 +39,7 @@
   "publisher": "ukt01",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/verdant-theme"
+    "url": "https://github.com/Ukt01/themeplanet-verdant"
   },
   "galleryBanner": {
     "color": "#1a2b1f",
