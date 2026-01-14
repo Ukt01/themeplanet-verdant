@@ -1,0 +1,38 @@
+{
+  "name": "Golden Fern",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a2e1a",
+    "editor.foreground": "#e8f5e9",
+    "editor.selectionBackground": "#ffd70040",
+    "editorCursor.foreground": "#ffd700",
+    "editorLineNumber.foreground": "#5c8c5c",
+    "editorLineNumber.activeForeground": "#ffd700",
+    "activityBar.background": "#122012",
+    "activityBar.foreground": "#ffd700",
+    "sideBar.background": "#223822",
+    "sideBar.foreground": "#d4e6d4",
+    "statusBar.background": "#1a2e1a",
+    "statusBar.foreground": "#e8f5e9",
+    "titleBar.activeBackground": "#122012",
+    "titleBar.activeForeground": "#e8f5e9"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#5c8c5c", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#ffd700" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#98fb98" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#f0e68c" }
+    }
+  ]
+}

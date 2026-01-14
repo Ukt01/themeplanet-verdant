@@ -14,6 +14,10 @@ A nature-inspired VS Code theme that brings the calming essence of forests and o
 - **Sunflower Field**: A bright and cheerful light theme
 - **Blue Moon**: A silvery dark theme
 - **Pale Moon**: A soft low-contrast light theme
+- **Golden Fern**: A deep green theme with golden accents
+- **Spring Meadow**: A fresh light theme with grassy greens and sun yellows
+- **Sage Sanctuary**: A calming muted sage green theme
+- **Ancient Moss**: A grounding earthy deep green theme
 - **Forest Night**: A dark theme inspired by deep pine forests and ocean depths
 - **Morning Mist**: A light theme evoking fresh morning mist over evergreen landscapes
 - **Nature-Inspired Palette**: Greens, teals, and earth tones for a soothing experience
@@ -123,6 +127,22 @@ For the best experience, consider these optional settings:
 ### Pale Moon Theme
 
 ![Pale Moon Theme](images/pale-moon.png)
+
+### Golden Fern Theme
+
+![Golden Fern Theme](images/golden-fern.png)
+
+### Spring Meadow Theme
+
+![Spring Meadow Theme](images/spring-meadow.png)
+
+### Sage Sanctuary Theme
+
+![Sage Sanctuary Theme](images/sage-sanctuary.png)
+
+### Ancient Moss Theme
+
+![Ancient Moss Theme](images/ancient-moss.png)
 
 ### Markdown Support
 

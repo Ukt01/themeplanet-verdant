@@ -1,0 +1,38 @@
+{
+  "name": "Sage Sanctuary",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f4f8f4",
+    "editor.foreground": "#2f4f4f",
+    "editor.selectionBackground": "#8fbc8f40",
+    "editorCursor.foreground": "#556b2f",
+    "editorLineNumber.foreground": "#a9a9a9",
+    "editorLineNumber.activeForeground": "#556b2f",
+    "activityBar.background": "#e8f0e8",
+    "activityBar.foreground": "#556b2f",
+    "sideBar.background": "#eef4ee",
+    "sideBar.foreground": "#2f4f4f",
+    "statusBar.background": "#e8f0e8",
+    "statusBar.foreground": "#2f4f4f",
+    "titleBar.activeBackground": "#e8f0e8",
+    "titleBar.activeForeground": "#2f4f4f"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#8fbc8f", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#6b8e23" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#5f9ea0" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#708090" }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Spring Meadow",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f0fff0",
+    "editor.foreground": "#006400",
+    "editor.selectionBackground": "#32cd3240",
+    "editorCursor.foreground": "#32cd32",
+    "editorLineNumber.foreground": "#90ee90",
+    "editorLineNumber.activeForeground": "#32cd32",
+    "activityBar.background": "#e0f8e0",
+    "activityBar.foreground": "#32cd32",
+    "sideBar.background": "#f5fff5",
+    "sideBar.foreground": "#006400",
+    "statusBar.background": "#e0f8e0",
+    "statusBar.foreground": "#006400",
+    "titleBar.activeBackground": "#e0f8e0",
+    "titleBar.activeForeground": "#006400"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#8fbc8f", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#daa520" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#228b22" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#ffa500" }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ancient Moss",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#283028",
+    "editor.foreground": "#d3dcc8",
+    "editor.selectionBackground": "#8fbc8f30",
+    "editorCursor.foreground": "#8fbc8f",
+    "editorLineNumber.foreground": "#5f6b5f",
+    "editorLineNumber.activeForeground": "#8fbc8f",
+    "activityBar.background": "#1e241e",
+    "activityBar.foreground": "#8fbc8f",
+    "sideBar.background": "#232b23",
+    "sideBar.foreground": "#c0c0c0",
+    "statusBar.background": "#283028",
+    "statusBar.foreground": "#d3dcc8",
+    "titleBar.activeBackground": "#1e241e",
+    "titleBar.activeForeground": "#d3dcc8"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#5f6b5f", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#8fbc8f" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#deb887" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#bdb76b" }
+    }
+  ]
+}

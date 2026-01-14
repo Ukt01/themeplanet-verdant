@@ -71,6 +71,26 @@
         "label": "Pale Moon",
         "uiTheme": "vs",
         "path": "./themes/pale-moon-color-theme.json"
+      },
+      {
+        "label": "Golden Fern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/golden-fern-color-theme.json"
+      },
+      {
+        "label": "Spring Meadow",
+        "uiTheme": "vs",
+        "path": "./themes/spring-meadow-color-theme.json"
+      },
+      {
+        "label": "Sage Sanctuary",
+        "uiTheme": "vs",
+        "path": "./themes/sage-sanctuary-color-theme.json"
+      },
+      {
+        "label": "Ancient Moss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ancient-moss-color-theme.json"
       }
     ]
   },
