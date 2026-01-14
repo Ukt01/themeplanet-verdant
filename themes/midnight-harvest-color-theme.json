@@ -1,0 +1,38 @@
+{
+  "name": "Midnight Harvest",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a1600",
+    "editor.foreground": "#fffdde",
+    "editor.selectionBackground": "#ffd70040",
+    "editorCursor.foreground": "#ffd700",
+    "editorLineNumber.foreground": "#665c00",
+    "editorLineNumber.activeForeground": "#ffd700",
+    "activityBar.background": "#120f00",
+    "activityBar.foreground": "#ffd700",
+    "sideBar.background": "#241f00",
+    "sideBar.foreground": "#fffdb0",
+    "statusBar.background": "#1a1600",
+    "statusBar.foreground": "#fffdde",
+    "titleBar.activeBackground": "#120f00",
+    "titleBar.activeForeground": "#fffdde"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#665c00", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#ffd700" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#9acd32" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#ffa500" }
+    }
+  ]
+}

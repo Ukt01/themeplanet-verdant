@@ -1,0 +1,38 @@
+{
+  "name": "Golden Hour",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fff5e6",
+    "editor.foreground": "#5c4033",
+    "editor.selectionBackground": "#ffcc9940",
+    "editorCursor.foreground": "#d97706",
+    "editorLineNumber.foreground": "#b49b85",
+    "editorLineNumber.activeForeground": "#d97706",
+    "activityBar.background": "#fae8c8",
+    "activityBar.foreground": "#d97706",
+    "sideBar.background": "#fdf1d6",
+    "sideBar.foreground": "#5c4033",
+    "statusBar.background": "#fae8c8",
+    "statusBar.foreground": "#5c4033",
+    "titleBar.activeBackground": "#fae8c8",
+    "titleBar.activeForeground": "#5c4033"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#b49b85", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#d97706" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#65a30d" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#0ea5e9" }
+    }
+  ]
+}

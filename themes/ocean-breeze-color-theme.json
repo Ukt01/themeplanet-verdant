@@ -1,0 +1,38 @@
+{
+  "name": "Ocean Breeze",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f0f9ff",
+    "editor.foreground": "#0c4a6e",
+    "editor.selectionBackground": "#bae6fd40",
+    "editorCursor.foreground": "#0ea5e9",
+    "editorLineNumber.foreground": "#94a3b8",
+    "editorLineNumber.activeForeground": "#0ea5e9",
+    "activityBar.background": "#e0f2fe",
+    "activityBar.foreground": "#0ea5e9",
+    "sideBar.background": "#e0f2fe",
+    "sideBar.foreground": "#0c4a6e",
+    "statusBar.background": "#bae6fd",
+    "statusBar.foreground": "#0c4a6e",
+    "titleBar.activeBackground": "#bae6fd",
+    "titleBar.activeForeground": "#0c4a6e"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#64748b", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#0284c7" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#059669" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#7c3aed" }
+    }
+  ]
+}

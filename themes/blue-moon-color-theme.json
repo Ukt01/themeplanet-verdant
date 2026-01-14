@@ -1,0 +1,38 @@
+{
+  "name": "Blue Moon",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#191924",
+    "editor.foreground": "#dcdcdc",
+    "editor.selectionBackground": "#88c0d030",
+    "editorCursor.foreground": "#88c0d0",
+    "editorLineNumber.foreground": "#4c566a",
+    "editorLineNumber.activeForeground": "#88c0d0",
+    "activityBar.background": "#12121a",
+    "activityBar.foreground": "#88c0d0",
+    "sideBar.background": "#21212e",
+    "sideBar.foreground": "#eceff4",
+    "statusBar.background": "#191924",
+    "statusBar.foreground": "#dcdcdc",
+    "titleBar.activeBackground": "#12121a",
+    "titleBar.activeForeground": "#dcdcdc"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#4c566a", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#81a1c1" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#a3be8c" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#88c0d0" }
+    }
+  ]
+}

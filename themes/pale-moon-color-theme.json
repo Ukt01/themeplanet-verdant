@@ -1,0 +1,38 @@
+{
+  "name": "Pale Moon",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f5f5f7",
+    "editor.foreground": "#2f2f3d",
+    "editor.selectionBackground": "#88c0d030",
+    "editorCursor.foreground": "#5e81ac",
+    "editorLineNumber.foreground": "#d8dee9",
+    "editorLineNumber.activeForeground": "#5e81ac",
+    "activityBar.background": "#e5e9f0",
+    "activityBar.foreground": "#5e81ac",
+    "sideBar.background": "#eceff4",
+    "sideBar.foreground": "#2f2f3d",
+    "statusBar.background": "#e5e9f0",
+    "statusBar.foreground": "#2f2f3d",
+    "titleBar.activeBackground": "#e5e9f0",
+    "titleBar.activeForeground": "#2f2f3d"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#d8dee9", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#5e81ac" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#8fbcbb" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#81a1c1" }
+    }
+  ]
+}

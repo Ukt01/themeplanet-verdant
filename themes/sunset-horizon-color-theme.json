@@ -1,0 +1,38 @@
+{
+  "name": "Sunset Horizon",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#2d1b2e",
+    "editor.foreground": "#fce8e8",
+    "editor.selectionBackground": "#b45a5a40",
+    "editorCursor.foreground": "#ff9e64",
+    "editorLineNumber.foreground": "#8c6c8c",
+    "editorLineNumber.activeForeground": "#ff9e64",
+    "activityBar.background": "#201122",
+    "activityBar.foreground": "#ff9e64",
+    "sideBar.background": "#251625",
+    "sideBar.foreground": "#dcccdc",
+    "statusBar.background": "#2d1b2e",
+    "statusBar.foreground": "#fce8e8",
+    "titleBar.activeBackground": "#201122",
+    "titleBar.activeForeground": "#fce8e8"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#8c6c8c", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#ff9e64" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#9ece6a" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#7aa2f7" }
+    }
+  ]
+}

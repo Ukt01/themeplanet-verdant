@@ -4,6 +4,16 @@ A nature-inspired VS Code theme that brings the calming essence of forests and o
 
 ## Features
 
+- **Sunset Horizon**: A warm dark theme inspired by dusky skies
+- **Golden Hour**: A soft light theme evoking the magic hour sunlight
+- **Deep Ocean**: A dark blue theme for deep focus
+- **Ocean Breeze**: A fresh light theme like a coastal breeze
+- **Aurora Borealis**: A vibrant high-contrast dark theme
+- **Arctic Ice**: A cool, clean light theme
+- **Midnight Harvest**: A rich earthy dark theme
+- **Sunflower Field**: A bright and cheerful light theme
+- **Blue Moon**: A silvery dark theme
+- **Pale Moon**: A soft low-contrast light theme
 - **Forest Night**: A dark theme inspired by deep pine forests and ocean depths
 - **Morning Mist**: A light theme evoking fresh morning mist over evergreen landscapes
 - **Nature-Inspired Palette**: Greens, teals, and earth tones for a soothing experience
@@ -49,6 +59,7 @@ For the best experience, consider these optional settings:
 ## Color Palette
 
 ### Forest Night (Dark)
+
 - Background: Deep pine green (#1a2b1f)
 - Foreground: Soft off-white (#e8f5e8)
 - Keywords: Moss green (#6b8e6b)
@@ -56,6 +67,7 @@ For the best experience, consider these optional settings:
 - Comments: Muted green-gray (#5a7a5a)
 
 ### Morning Mist (Light)
+
 - Background: Warm fog (#f5f7f2)
 - Foreground: Deep slate (#2d3748)
 - Keywords: Evergreen (#4a7c59)
@@ -65,19 +77,58 @@ For the best experience, consider these optional settings:
 ## Screenshots
 
 ### Forest Night Theme
-![Forest Night Theme](screenshots/forest-night.png)
 
-*TypeScript code with Forest Night theme showing excellent syntax highlighting*
+![Forest Night Theme](images/forest-night.png)
 
 ### Morning Mist Theme
-![Morning Mist Theme](screenshots/morning-mist.png)
 
-*JavaScript and JSX code with Morning Mist theme demonstrating clean readability*
+![Morning Mist Theme](images/morning-mist.png)
+
+### Sunset Horizon Theme
+
+![Sunset Horizon Theme](images/sunset-horizon.png)
+
+### Golden Hour Theme
+
+![Golden Hour Theme](images/golden-hour.png)
+
+### Deep Ocean Theme
+
+![Deep Ocean Theme](images/deep-ocean.png)
+
+### Ocean Breeze Theme
+
+![Ocean Breeze Theme](images/ocean-breeze.png)
+
+### Aurora Borealis Theme
+
+![Aurora Borealis Theme](images/aurora-borealis.png)
+
+### Arctic Ice Theme
+
+![Arctic Ice Theme](images/arctic-ice.png)
+
+### Midnight Harvest Theme
+
+![Midnight Harvest Theme](images/midnight-harvest.png)
+
+### Sunflower Field Theme
+
+![Sunflower Field Theme](images/sunflower-field.png)
+
+### Blue Moon Theme
+
+![Blue Moon Theme](images/blue-moon.png)
+
+### Pale Moon Theme
+
+![Pale Moon Theme](images/pale-moon.png)
 
 ### Markdown Support
+
 ![Markdown Support](screenshots/markdown.png)
 
-*Markdown rendering with proper heading and code block styling*
+_Markdown rendering with proper heading and code block styling_
 
 ## Language Support
 
@@ -110,6 +161,7 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/your
 ## Changelog
 
 ### v1.0.0
+
 - Initial release with Forest Night and Morning Mist themes
 - Comprehensive syntax highlighting for major languages
 - Terminal ANSI color support

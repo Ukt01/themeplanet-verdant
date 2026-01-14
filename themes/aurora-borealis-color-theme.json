@@ -1,0 +1,38 @@
+{
+  "name": "Aurora Borealis",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0b1026",
+    "editor.foreground": "#d8dee9",
+    "editor.selectionBackground": "#88c0d040",
+    "editorCursor.foreground": "#a3be8c",
+    "editorLineNumber.foreground": "#4c566a",
+    "editorLineNumber.activeForeground": "#a3be8c",
+    "activityBar.background": "#080c1d",
+    "activityBar.foreground": "#a3be8c",
+    "sideBar.background": "#0e142e",
+    "sideBar.foreground": "#e5e9f0",
+    "statusBar.background": "#0b1026",
+    "statusBar.foreground": "#d8dee9",
+    "titleBar.activeBackground": "#080c1d",
+    "titleBar.activeForeground": "#d8dee9"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#4c566a", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#81a1c1" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#a3be8c" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#b48ead" }
+    }
+  ]
+}

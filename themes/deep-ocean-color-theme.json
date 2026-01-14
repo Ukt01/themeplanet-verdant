@@ -1,0 +1,38 @@
+{
+  "name": "Deep Ocean",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0f172a",
+    "editor.foreground": "#e2e8f0",
+    "editor.selectionBackground": "#38bdf830",
+    "editorCursor.foreground": "#38bdf8",
+    "editorLineNumber.foreground": "#475569",
+    "editorLineNumber.activeForeground": "#38bdf8",
+    "activityBar.background": "#020617",
+    "activityBar.foreground": "#38bdf8",
+    "sideBar.background": "#1e293b",
+    "sideBar.foreground": "#94a3b8",
+    "statusBar.background": "#0f172a",
+    "statusBar.foreground": "#e2e8f0",
+    "titleBar.activeBackground": "#020617",
+    "titleBar.activeForeground": "#e2e8f0"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#475569", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#38bdf8" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#4ade80" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#818cf8" }
+    }
+  ]
+}

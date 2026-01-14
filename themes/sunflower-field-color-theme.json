@@ -1,0 +1,38 @@
+{
+  "name": "Sunflower Field",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fffdf0",
+    "editor.foreground": "#3b3a30",
+    "editor.selectionBackground": "#ffd70030",
+    "editorCursor.foreground": "#eab308",
+    "editorLineNumber.foreground": "#d4d4d4",
+    "editorLineNumber.activeForeground": "#eab308",
+    "activityBar.background": "#fefce8",
+    "activityBar.foreground": "#eab308",
+    "sideBar.background": "#fef9c3",
+    "sideBar.foreground": "#3b3a30",
+    "statusBar.background": "#fefce8",
+    "statusBar.foreground": "#3b3a30",
+    "titleBar.activeBackground": "#fefce8",
+    "titleBar.activeForeground": "#3b3a30"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#a1a1aa", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#d97706" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#65a30d" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#059669" }
+    }
+  ]
+}

@@ -21,6 +21,56 @@
         "label": "Morning Mist",
         "uiTheme": "vs",
         "path": "./themes/morning-mist-color-theme.json"
+      },
+      {
+        "label": "Sunset Horizon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunset-horizon-color-theme.json"
+      },
+      {
+        "label": "Golden Hour",
+        "uiTheme": "vs",
+        "path": "./themes/golden-hour-color-theme.json"
+      },
+      {
+        "label": "Deep Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-ocean-color-theme.json"
+      },
+      {
+        "label": "Ocean Breeze",
+        "uiTheme": "vs",
+        "path": "./themes/ocean-breeze-color-theme.json"
+      },
+      {
+        "label": "Aurora Borealis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-borealis-color-theme.json"
+      },
+      {
+        "label": "Arctic Ice",
+        "uiTheme": "vs",
+        "path": "./themes/arctic-ice-color-theme.json"
+      },
+      {
+        "label": "Midnight Harvest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-harvest-color-theme.json"
+      },
+      {
+        "label": "Sunflower Field",
+        "uiTheme": "vs",
+        "path": "./themes/sunflower-field-color-theme.json"
+      },
+      {
+        "label": "Blue Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-moon-color-theme.json"
+      },
+      {
+        "label": "Pale Moon",
+        "uiTheme": "vs",
+        "path": "./themes/pale-moon-color-theme.json"
       }
     ]
   },

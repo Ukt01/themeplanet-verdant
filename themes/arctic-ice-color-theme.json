@@ -1,0 +1,38 @@
+{
+  "name": "Arctic Ice",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f4f8fb",
+    "editor.foreground": "#2e3440",
+    "editor.selectionBackground": "#88c0d040",
+    "editorCursor.foreground": "#5e81ac",
+    "editorLineNumber.foreground": "#d8dee9",
+    "editorLineNumber.activeForeground": "#5e81ac",
+    "activityBar.background": "#e5e9f0",
+    "activityBar.foreground": "#5e81ac",
+    "sideBar.background": "#eceff4",
+    "sideBar.foreground": "#2e3440",
+    "statusBar.background": "#e5e9f0",
+    "statusBar.foreground": "#2e3440",
+    "titleBar.activeBackground": "#e5e9f0",
+    "titleBar.activeForeground": "#2e3440"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#d8dee9", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#5e81ac" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#bf616a" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#8fbcbb" }
+    }
+  ]
+}
